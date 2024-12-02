@@ -1,0 +1,7 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="btpcicd.controller.ViewBG">
+    <Page id="page" title="{i18n>title}">
+    <content>
+        <Image src="https://th.bing.com/th/id/OIP.OSD8OaeHJm5wiOcM3aotrQHaHa?rs=1&amp;pid=ImgDetMain" width="140px" height="140px" id="image0"/>
+    </content>
+    </Page>
+</mvc:View>
